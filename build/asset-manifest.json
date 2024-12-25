@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b48f57d.css",
-    "main.js": "/static/js/main.11d108eb.js",
+    "main.css": "/static/css/main.02b61a98.css",
+    "main.js": "/static/js/main.969c3d8d.js",
     "static/media/app.png": "/static/media/app.e6d76f45b658ab3e019f.png",
     "static/media/ophelia-garden-set.png": "/static/media/ophelia-garden-set.9cd8227cd2ff88938c11.png",
     "static/media/rufus-rug.jpg": "/static/media/rufus-rug.76a617e6c5d116c42f60.jpg",
@@ -56,11 +56,11 @@
     "static/media/poppy2.webp": "/static/media/poppy2.ebf781954059dc3d93be.webp",
     "static/media/lamp3.webp": "/static/media/lamp3.0e677ab3f7bf198a20b2.webp",
     "index.html": "/index.html",
-    "main.2b48f57d.css.map": "/static/css/main.2b48f57d.css.map",
-    "main.11d108eb.js.map": "/static/js/main.11d108eb.js.map"
+    "main.02b61a98.css.map": "/static/css/main.02b61a98.css.map",
+    "main.969c3d8d.js.map": "/static/js/main.969c3d8d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b48f57d.css",
-    "static/js/main.11d108eb.js"
+    "static/css/main.02b61a98.css",
+    "static/js/main.969c3d8d.js"
   ]
 }

@@ -4,7 +4,7 @@ import showcase from "../../img/showcase.jpg";
 const Showcase = () => {
   return (
     <section className={classes["showcase-container"]}>
-      <img src={showcase} alt="Showcase Image" className={classes.showcase} />
+      <img src={showcase} alt="Showcase" className={classes.showcase} />
       <div className={classes["showcase-text-container"]}>
         <h1 className={`${classes["showcase-heading"]} ${"section-heading"}`}>
           Saving you from global warming and discomfort
